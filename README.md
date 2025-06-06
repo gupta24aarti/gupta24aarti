@@ -1,4 +1,4 @@
-#  🙏 Welcome to my GitHub! 
+# 👋 Welcome to my GitHub! 
 
 
 ## Hello! I am Aarti Gupta
@@ -39,13 +39,13 @@ I'm focused on mastering the skills to analyze, visualize, and build machine lea
 Check out some of my projects:
 - 🧠 Heart Disease Prediction using ML  
 - 📊 Customer Segmentation using K-Means  
-- 🛳 Titanic Survival Analysis  
+- 📈 Blinkit Sales Analysis using tableau
 - 📈 Sales Data Dashboard with Power BI  
 
 ---
 
 ## 📫 Let's Connect!
 
-- 💼 LinkedIn: Aarti Gupta
+- 💼 LinkedIn: [Aarti Gupta](https://www.linkedin.com/in/aarti-gupta24/)
 - 📧 Email: guptaaarti718@gmail.com
 - 📁 Portfolio: (Coming Soon)
