@@ -1,7 +1,7 @@
-# 👋 Welcome to my GitHub! 
+#  Welcome to my GitHub! 
 
 
-## Hello! I am Aarti Gupta
+## Hello! 👋 I am Aarti Gupta
 - 📊 Aspiring Data Scientist | Data Science Learner
 - 💻 Tech Enthusiast | Data Lover
 
