@@ -48,4 +48,4 @@ Check out some of my projects:
 
 - 💼 LinkedIn: [Aarti Gupta](https://www.linkedin.com/in/aarti-gupta24/)
 - 📧 Email: guptaaarti718@gmail.com
-- 📁 Portfolio: (Coming Soon)
+- 📁 Portfolio:https://gupta24aarti.github.io
