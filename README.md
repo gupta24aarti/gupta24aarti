@@ -1,5 +1,7 @@
 #  Welcome to my GitHub! 
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%40+Advora.ai;Building+RAG+%26+Agentic+AI+Systems;LangChain+%C2%B7+LangGraph+%C2%B7+GCP+%C2%B7+Docker;Python+%C2%B7+NLP+%C2%B7+Deep+Learning" alt="Typing SVG" />
+
 
 ## Hello! 👋 I am Aarti Gupta
 - 📊 Aspiring Data Scientist | Data Science Learner
